@@ -11,8 +11,8 @@
         "version": "12.1.0",
         "moduleId": "a-day-at-11-the-post-apocalyptic-settlement",
         "updateDescription": {
-            "en": "",
-            "de": ""
+            "en": "This adds the Post apocalyptic settlement maps as foundry vtt maps with also some <b>Levels</b> features.",
+            "de": "Dieses Update fügt die Karten des Post apocalyptic settlement als Foundry VTT Karten hinzu, einschließlich einiger <b>Levels</b>-Funktionen."
         }
     },
     "12": {
@@ -21,6 +21,14 @@
         "updateDescription": {
             "en": "",
             "de": ""
+        }
+    },
+    "13": {
+        "version": "12.1.0",
+        "moduleId": "a-day-at-13-the-back-alley-map-set",
+        "updateDescription": {
+            "en": "Map Set for the [#13] a day at the back alley content pack. Also includes the new <b>Levels</b> maps.",
+            "de": "Ein Karten set für [#13] a day at the back alley. Enthält außerdem die neuen <b>Levels</b> Karten."
         }
     },
     "14": {
