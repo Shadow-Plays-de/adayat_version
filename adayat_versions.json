@@ -32,7 +32,7 @@
         }
     },
     "15": {
-        "version": "1.0.0",
+        "version": "0.8.0",
         "moduleId": "a-day-at-15-the-skyscraper-map-set",
         "updateDescription": {
             "en": "",
@@ -48,7 +48,7 @@
         }
     },
     "17": {
-        "version": "1.0.0",
+        "version": "0.1.0",
         "moduleId": "a-day-at-17-the-mall-map-set",
         "updateDescription": {
             "en": "",
