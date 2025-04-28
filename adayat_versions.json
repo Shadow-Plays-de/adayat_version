@@ -1,62 +1,122 @@
 {
     "0": {
-        "version": "0.12.8",
-        "moduleId": "adayat"
+        "version": "12.1.0",
+        "moduleId": "adayat",
+        "updateDescription": {
+            "en": "",
+            "de": ""
+        }
     },
     "11": {
-        "version": "1.1.0",
-        "moduleId": "a-day-at-11-the-post-apocalyptic-settlement"
+        "version": "12.1.0",
+        "moduleId": "a-day-at-11-the-post-apocalyptic-settlement",
+        "updateDescription": {
+            "en": "",
+            "de": ""
+        }
     },
     "12": {
-        "version": "1.1.0",
-        "moduleId": "a-day-at-12-the-bunker-map-set"
+        "version": "1.0.0",
+        "moduleId": "a-day-at-12-the-bunker-map-set",
+        "updateDescription": {
+            "en": "",
+            "de": ""
+        }
     },
     "14": {
         "version": "1.1.0",
-        "moduleId": "a-day-at-14-the-airport-map-set"
+        "moduleId": "a-day-at-14-the-airport-map-set",
+        "updateDescription": {
+            "en": "",
+            "de": ""
+        }
     },
     "15": {
-        "version": "0.9.0",
-        "moduleId": "a-day-at-15-the-skyscraper-map-set"
+        "version": "1.0.0",
+        "moduleId": "a-day-at-15-the-skyscraper-map-set",
+        "updateDescription": {
+            "en": "",
+            "de": ""
+        }
     },
     "16": {
-        "version": "1.1.0",
-        "moduleId": "a-day-at-16-the-suburbs-set"
+        "version": "1.0.0",
+        "moduleId": "a-day-at-16-the-suburbs-set",
+        "updateDescription": {
+            "en": "",
+            "de": ""
+        }
     },
     "17": {
-        "version": "1.1.0",
-        "moduleId": "a-day-at-17-the-mall-map-set"
+        "version": "1.0.0",
+        "moduleId": "a-day-at-17-the-mall-map-set",
+        "updateDescription": {
+            "en": "",
+            "de": ""
+        }
     },
     "18": {
-        "version": "1.1.0",
-        "moduleId": "a-day-at-18-the-secret-research-facility-map-set"
+        "version": "1.0.0",
+        "moduleId": "a-day-at-18-the-secret-research-facility-map-set",
+        "updateDescription": {
+            "en": "",
+            "de": ""
+        }
     },
     "19": {
-        "version": "1.1.0",
-        "moduleId": "a-day-at-19-the-military-base-map-set"
+        "version": "1.0.0",
+        "moduleId": "a-day-at-19-the-military-base-map-set",
+        "updateDescription": {
+            "en": "",
+            "de": ""
+        }
     },
     "20": {
-        "version": "1.1.0",
-        "moduleId": "a-day-at-20-the-wrong-side-of-town-map-set"
+        "version": "1.0.0",
+        "moduleId": "a-day-at-20-the-wrong-side-of-town-map-set",
+        "updateDescription": {
+            "en": "",
+            "de": ""
+        }
     },
     "21": {
-        "version": "1.1.0",
-        "moduleId": "a-day-at-21-the-submarine-set"
+        "version": "1.0.0",
+        "moduleId": "a-day-at-21-the-submarine-set",
+        "updateDescription": {
+            "en": "",
+            "de": ""
+        }
     },
     "22": {
-        "version": "1.1.0",
-        "moduleId": "a-day-at-22-the-hospital-set"
+        "version": "1.0.0",
+        "moduleId": "a-day-at-22-the-hospital-set",
+        "updateDescription": {
+            "en": "",
+            "de": ""
+        }
     },
     "23": {
-        "version": "1.1.0",
-        "moduleId": "a-day-at-23-the-prison-set"
+        "version": "1.0.0",
+        "moduleId": "a-day-at-23-the-prison-set",
+        "updateDescription": {
+            "en": "",
+            "de": ""
+        }
     },
     "24": {
-        "version": "1.1.0",
-        "moduleId": "a-day-at-24-the-space-station-set"
+        "version": "1.0.0",
+        "moduleId": "a-day-at-24-the-space-station-set",
+        "updateDescription": {
+            "en": "",
+            "de": ""
+        }
     },
     "25": {
-        "version": "1.1.0",
-        "moduleId": "a-day-at-25-the-resort-and-mansion-set"
+        "version": "1.0.0",
+        "moduleId": "a-day-at-25-the-resort-and-mansion-set",
+        "updateDescription": {
+            "en": "",
+            "de": ""
+        }
     }
 }
