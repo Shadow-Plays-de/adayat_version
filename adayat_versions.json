@@ -1,14 +1,14 @@
 {
     "0": {
-        "version": "12.1.0",
+        "version": "1.2.0",
         "moduleId": "adayat",
         "updateDescription": {
-            "en": "",
-            "de": ""
+            "en": "Bug Fix on tile change for levels",
+            "de": "Bug Fix für tile veränderung für levels szenen"
         }
     },
     "11": {
-        "version": "12.1.0",
+        "version": "1.2.0",
         "moduleId": "a-day-at-11-the-post-apocalyptic-settlement",
         "updateDescription": {
             "en": "This adds the Post apocalyptic settlement maps as foundry vtt maps with also some <b>Levels</b> features.",
@@ -24,7 +24,7 @@
         }
     },
     "13": {
-        "version": "12.1.0",
+        "version": "1.2.0",
         "moduleId": "a-day-at-13-the-back-alley-map-set",
         "updateDescription": {
             "en": "Map Set for the [#13] a day at the back alley content pack. Also includes the new <b>Levels</b> maps.",
@@ -40,11 +40,11 @@
         }
     },
     "15": {
-        "version": "0.8.0",
+        "version": "1.1.0",
         "moduleId": "a-day-at-15-the-skyscraper-map-set",
         "updateDescription": {
-            "en": "",
-            "de": ""
+            "en": "Map Set for the [#15] a day at skyscraper content pack. Also includes the new <b>Levels</b> maps.",
+            "de": "Ein Karten set für [#15] a day at the Wolkenkratzer. Enthält außerdem die neuen <b>Levels</b> Karten."
         }
     },
     "16": {
@@ -56,11 +56,11 @@
         }
     },
     "17": {
-        "version": "0.1.0",
+        "version": "1.2.0",
         "moduleId": "a-day-at-17-the-mall-map-set",
         "updateDescription": {
-            "en": "",
-            "de": ""
+            "en": "Map Set for the [#17] a day at mall content pack. Also includes the new <b>Levels</b> maps.",
+            "de": "Ein Karten set für [#15] a day at the Einkaufszentrum. Enthält außerdem die neuen <b>Levels</b> Karten."
         }
     },
     "18": {
