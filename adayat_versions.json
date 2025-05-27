@@ -120,11 +120,12 @@
         }
     },
     "25": {
-        "version": "1.0.0",
+        "version": "1.1.0",
         "moduleId": "a-day-at-25-the-resort-and-mansion-set",
         "updateDescription": {
-            "en": "",
-            "de": ""
+            "en": "Map Set for the [#25] a day at the resort and mansion content pack. Also includes the new <b>Levels</b> maps.",
+            "de": "Ein Karten set für [#25] a day at the resort and mansion. Enthält außerdem die neuen <b>Levels</b> Karten."
+"
         }
     }
 }
