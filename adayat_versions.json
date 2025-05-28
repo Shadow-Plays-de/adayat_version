@@ -16,7 +16,7 @@
     }
   },
   "12": {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "moduleId": "a-day-at-12-the-bunker-map-set",
     "updateDescription": {
       "en": "",
@@ -32,7 +32,7 @@
     }
   },
   "14": {
-    "version": "1.1.1",
+    "version": "1.0.0",
     "moduleId": "a-day-at-14-the-airport-map-set",
     "updateDescription": {
       "en": "",
@@ -48,7 +48,7 @@
     }
   },
   "16": {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "moduleId": "a-day-at-16-the-suburbs-set",
     "updateDescription": {
       "en": "",
@@ -88,7 +88,7 @@
     }
   },
   "21": {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "moduleId": "a-day-at-21-the-submarine-set",
     "updateDescription": {
       "en": "",
@@ -104,7 +104,7 @@
     }
   },
   "23": {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "moduleId": "a-day-at-23-the-prison-set",
     "updateDescription": {
       "en": "",
@@ -112,7 +112,7 @@
     }
   },
   "24": {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "moduleId": "a-day-at-24-the-space-station-set",
     "updateDescription": {
       "en": "",
