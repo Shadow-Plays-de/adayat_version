@@ -1,130 +1,138 @@
 {
-    "0": {
-        "version": "1.2.02",
-        "moduleId": "adayat",
-        "updateDescription": {
-            "en": "Bug Fix on tile change for levels",
-            "de": "Bug Fix für tile veränderung für levels szenen"
-        }
-    },
-    "11": {
-        "version": "1.2.0",
-        "moduleId": "a-day-at-11-the-post-apocalyptic-settlement",
-        "updateDescription": {
-            "en": "This adds the Post apocalyptic settlement maps as foundry vtt maps with also some <b>Levels</b> features.",
-            "de": "Dieses Update fügt die Karten des Post apocalyptic settlement als Foundry VTT Karten hinzu, einschließlich einiger <b>Levels</b>-Funktionen."
-        }
-    },
-    "12": {
-        "version": "1.0.0",
-        "moduleId": "a-day-at-12-the-bunker-map-set",
-        "updateDescription": {
-            "en": "",
-            "de": ""
-        }
-    },
-    "13": {
-        "version": "1.2.0",
-        "moduleId": "a-day-at-13-the-back-alley-map-set",
-        "updateDescription": {
-            "en": "Map Set for the [#13] a day at the back alley content pack. Also includes the new <b>Levels</b> maps.",
-            "de": "Ein Karten set für [#13] a day at the back alley. Enthält außerdem die neuen <b>Levels</b> Karten."
-        }
-    },
-    "14": {
-        "version": "1.1.0",
-        "moduleId": "a-day-at-14-the-airport-map-set",
-        "updateDescription": {
-            "en": "",
-            "de": ""
-        }
-    },
-    "15": {
-        "version": "1.2.0",
-        "moduleId": "a-day-at-15-the-skyscraper-map-set",
-        "updateDescription": {
-            "en": "Map Set for the [#15] a day at skyscraper content pack. Also includes the new <b>Levels</b> maps.",
-            "de": "Ein Karten set für [#15] a day at the Wolkenkratzer. Enthält außerdem die neuen <b>Levels</b> Karten."
-        }
-    },
-    "16": {
-        "version": "1.0.0",
-        "moduleId": "a-day-at-16-the-suburbs-set",
-        "updateDescription": {
-            "en": "",
-            "de": ""
-        }
-    },
-    "17": {
-        "version": "1.2.0",
-        "moduleId": "a-day-at-17-the-mall-map-set",
-        "updateDescription": {
-            "en": "Map Set for the [#17] a day at mall content pack. Also includes the new <b>Levels</b> maps.",
-            "de": "Ein Karten set für [#17] a day at the Einkaufszentrum. Enthält außerdem die neuen <b>Levels</b> Karten."
-        }
-    },
-    "18": {
-        "version": "1.0.0",
-        "moduleId": "a-day-at-18-the-secret-research-facility-map-set",
-        "updateDescription": {
-            "en": "",
-            "de": ""
-        }
-    },
-    "19": {
-        "version": "1.0.0",
-        "moduleId": "a-day-at-19-the-military-base-map-set",
-        "updateDescription": {
-            "en": "",
-            "de": ""
-        }
-    },
-    "20": {
-        "version": "1.2.0",
-        "moduleId": "a-day-at-20-the-wrong-side-of-town-map-set",
-        "updateDescription": {
-            "en": "Map Set for the [#20] a day at the wrong side of town content pack. Also includes the new <b>Levels</b> maps.",
-            "de": "Ein Karten set für [#17] a day at the wrong side of town. Enthält außerdem die neuen <b>Levels</b> Karten."
-        }
-    },
-    "21": {
-        "version": "1.0.0",
-        "moduleId": "a-day-at-21-the-submarine-set",
-        "updateDescription": {
-            "en": "",
-            "de": ""
-        }
-    },
-    "22": {
-        "version": "1.0.0",
-        "moduleId": "a-day-at-22-the-hospital-set",
-        "updateDescription": {
-            "en": "",
-            "de": ""
-        }
-    },
-    "23": {
-        "version": "1.0.0",
-        "moduleId": "a-day-at-23-the-prison-set",
-        "updateDescription": {
-            "en": "",
-            "de": ""
-        }
-    },
-    "24": {
-        "version": "1.0.0",
-        "moduleId": "a-day-at-24-the-space-station-set",
-        "updateDescription": {
-            "en": "",
-            "de": ""
-        }
-    },
-    "25": {
-        "version": "1.1.0",
-        "moduleId": "a-day-at-25-the-resort-and-mansion-set",
-        "updateDescription": {
-            "en": "Map Set for the [#25] a day at the resort and mansion content pack. Also includes the new <b>Levels</b> maps.",
-            "de": "Ein Karten set für [#25] a day at the resort and mansion. Enthält außerdem die neuen <b>Levels</b> Karten."
-        }
+  "0": {
+    "version": "1.2.02",
+    "moduleId": "adayat",
+    "updateDescription": {
+      "en": "Bug Fix on tile change for levels",
+      "de": "Bug Fix für tile veränderung für levels szenen"
     }
+  },
+  "11": {
+    "version": "1.2.1",
+    "moduleId": "a-day-at-11-the-post-apocalyptic-settlement",
+    "updateDescription": {
+      "en": "This adds the Post apocalyptic settlement maps as foundry vtt maps with also some <b>Levels</b> features.",
+      "de": "Dieses Update fügt die Karten des Post apocalyptic settlement als Foundry VTT Karten hinzu, einschließlich einiger <b>Levels</b>-Funktionen."
+    }
+  },
+  "12": {
+    "version": "1.0.1",
+    "moduleId": "a-day-at-12-the-bunker-map-set",
+    "updateDescription": {
+      "en": "",
+      "de": ""
+    }
+  },
+  "13": {
+    "version": "1.2.1",
+    "moduleId": "a-day-at-13-the-back-alley-map-set",
+    "updateDescription": {
+      "en": "Map Set for the [#13] a day at the back alley content pack. Also includes the new <b>Levels</b> maps.",
+      "de": "Ein Karten set für [#13] a day at the back alley. Enthält außerdem die neuen <b>Levels</b> Karten."
+    }
+  },
+  "14": {
+    "version": "1.1.1",
+    "moduleId": "a-day-at-14-the-airport-map-set",
+    "updateDescription": {
+      "en": "",
+      "de": ""
+    }
+  },
+  "15": {
+    "version": "1.2.1",
+    "moduleId": "a-day-at-15-the-skyscraper-map-set",
+    "updateDescription": {
+      "en": "Map Set for the [#15] a day at skyscraper content pack. Also includes the new <b>Levels</b> maps.",
+      "de": "Ein Karten set für [#15] a day at the Wolkenkratzer. Enthält außerdem die neuen <b>Levels</b> Karten."
+    }
+  },
+  "16": {
+    "version": "1.0.1",
+    "moduleId": "a-day-at-16-the-suburbs-set",
+    "updateDescription": {
+      "en": "",
+      "de": ""
+    }
+  },
+  "17": {
+    "version": "1.2.1",
+    "moduleId": "a-day-at-17-the-mall-map-set",
+    "updateDescription": {
+      "en": "Map Set for the [#17] a day at mall content pack. Also includes the new <b>Levels</b> maps.",
+      "de": "Ein Karten set für [#17] a day at the Einkaufszentrum. Enthält außerdem die neuen <b>Levels</b> Karten."
+    }
+  },
+  "18": {
+    "version": "1.0.1",
+    "moduleId": "a-day-at-18-the-secret-research-facility-map-set",
+    "updateDescription": {
+      "en": "",
+      "de": ""
+    }
+  },
+  "19": {
+    "version": "1.0.1",
+    "moduleId": "a-day-at-19-the-military-base-map-set",
+    "updateDescription": {
+      "en": "",
+      "de": ""
+    }
+  },
+  "20": {
+    "version": "1.2.1",
+    "moduleId": "a-day-at-20-the-wrong-side-of-town-map-set",
+    "updateDescription": {
+      "en": "Map Set for the [#20] a day at the wrong side of town content pack. Also includes the new <b>Levels</b> maps.",
+      "de": "Ein Karten set für [#17] a day at the wrong side of town. Enthält außerdem die neuen <b>Levels</b> Karten."
+    }
+  },
+  "21": {
+    "version": "1.0.1",
+    "moduleId": "a-day-at-21-the-submarine-set",
+    "updateDescription": {
+      "en": "",
+      "de": ""
+    }
+  },
+  "22": {
+    "version": "1.0.1",
+    "moduleId": "a-day-at-22-the-hospital-set",
+    "updateDescription": {
+      "en": "",
+      "de": ""
+    }
+  },
+  "23": {
+    "version": "1.0.1",
+    "moduleId": "a-day-at-23-the-prison-set",
+    "updateDescription": {
+      "en": "",
+      "de": ""
+    }
+  },
+  "24": {
+    "version": "1.0.1",
+    "moduleId": "a-day-at-24-the-space-station-set",
+    "updateDescription": {
+      "en": "",
+      "de": ""
+    }
+  },
+  "25": {
+    "version": "1.1.1",
+    "moduleId": "a-day-at-25-the-resort-and-mansion-set",
+    "updateDescription": {
+      "en": "Map Set for the [#25] a day at the resort and mansion content pack. Also includes the new <b>Levels</b> maps.",
+      "de": "Ein Karten set für [#25] a day at the resort and mansion. Enthält außerdem die neuen <b>Levels</b> Karten."
+    }
+  },
+  "26": {
+    "version": "1.1.1",
+    "moduleId": "a-day-at-26-the-cruise-ship-set",
+    "updateDescription": {
+      "en": "Map Set for the [#26] a day at the cruise ship set. Also includes the new <b>Levels</b> maps.",
+      "de": "Ein Karten set für [#26] a day at das luxus schiffs set. Enthält außerdem die neuen <b>Levels</b> Karten."
+    }
+  }
 }
