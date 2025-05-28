@@ -1,6 +1,6 @@
 {
   "0": {
-    "version": "1.2.02",
+    "version": "1.2.3",
     "moduleId": "adayat",
     "updateDescription": {
       "en": "Bug Fix on tile change for levels",
