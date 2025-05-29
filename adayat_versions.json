@@ -8,7 +8,7 @@
     }
   },
   "11": {
-    "version": "1.2.2",
+    "version": "1.2.1",
     "moduleId": "a-day-at-11-the-post-apocalyptic-settlement",
     "updateDescription": {
       "en": "This adds the Post apocalyptic settlement maps as foundry vtt maps with also some <b>Levels</b> features.",
@@ -40,7 +40,7 @@
     }
   },
   "15": {
-    "version": "1.2.2",
+    "version": "1.2.1",
     "moduleId": "a-day-at-15-the-skyscraper-map-set",
     "updateDescription": {
       "en": "Map Set for the [#15] a day at skyscraper content pack. Also includes the new <b>Levels</b> maps.",
@@ -56,7 +56,7 @@
     }
   },
   "17": {
-    "version": "1.2.2",
+    "version": "1.2.1",
     "moduleId": "a-day-at-17-the-mall-map-set",
     "updateDescription": {
       "en": "Map Set for the [#17] a day at mall content pack. Also includes the new <b>Levels</b> maps.",
@@ -104,7 +104,7 @@
     }
   },
   "23": {
-    "version": "1.1.1",
+    "version": "1.0.1",
     "moduleId": "a-day-at-23-the-prison-set",
     "updateDescription": {
       "en": "",
@@ -128,7 +128,7 @@
     }
   },
   "26": {
-    "version": "1.0.1",
+    "version": "1.1.2",
     "moduleId": "a-day-at-26-the-cruise-ship-set",
     "updateDescription": {
       "en": "Map Set for the [#26] a day at the cruise ship set. Also includes the new <b>Levels</b> maps.",
