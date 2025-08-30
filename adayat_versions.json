@@ -1,7 +1,7 @@
 {
   "0": {
 
-    "version": "1.2.12",
+    "version": "1.2.15",
     "moduleId": "a-day-at-0",
 
     "updateDescription": {
@@ -10,7 +10,7 @@
     }
   },
   "11": {
-    "version": "1.2.2",
+    "version": "2.0.0",
     "moduleId": "a-day-at-11-the-post-apocalyptic-settlement",
     "updateDescription": {
       "en": "This adds the Post apocalyptic settlement maps as foundry vtt maps with also some <b>Levels</b> features.",
@@ -82,7 +82,7 @@
     }
   },
   "20": {
-    "version": "1.2.2",
+    "version": "2.0.0",
     "moduleId": "a-day-at-20-the-wrong-side-of-town-map-set",
     "updateDescription": {
       "en": "Map Set for the [#20] a day at the wrong side of town content pack. Also includes the new <b>Levels</b> maps.",
