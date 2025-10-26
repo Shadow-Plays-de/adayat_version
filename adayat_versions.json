@@ -1,12 +1,12 @@
 {
   "0": {
 
-    "version": "1.2.16",
+    "version": "1.2.17",
     "moduleId": "a-day-at-0",
 
     "updateDescription": {
-      "en": "CSS Bugfix",
-      "de": "CSS Bug Fix"
+      "en": "minor bugs fixed",
+      "de": "Kleine bugs repariert"
     }
   },
   "11": {
@@ -137,5 +137,24 @@
       "de": "Ein Karten set für [#26] a day at das luxus schiffs set. Enthält außerdem die neuen <b>Levels</b> Karten."
     }
   }
+},
+"27": {
+    "version": "1.0.0",
+    "moduleId": "a-day-at-27-the-museum-set",
+    "updateDescription": {
+      "en": "Map Set for the [#27] a day at the museum content pack.",
+      "de": ""
+    }
+  }
+},
+"28": {
+    "version": "1.0.0",
+    "moduleId": "a-day-at-28-the-city-center-set",
+    "updateDescription": {
+      "en": "Map Set for the [#28] a day at the city center content pack.",
+      "de": ""
+    }
+  }
 }
+
 
